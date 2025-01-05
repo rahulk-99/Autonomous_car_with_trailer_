@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/389680b9-9d93-4d9a-9ca6-1fcbac0bcf7a
+https://github.com/user-attachments/assets/a001499f-0739-4da8-beaa-4c83600c381a
 > Proportional Controller Demonstration: Real-Time Car Pose Plot in Action
 ## Overview
 This project focuses on developing and simulating autonomous navigation and running teleop for the toycar(designed using Solidworks) using ROS2. The project encompasses teleoperation, visualization of lidar in RViz, and automated navigation within a Gazebo simulation environment.
